@@ -18,4 +18,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # HTML Checking
-gem 'html-proofer'
+gem 'html-proofer', '>= 3.10.0'
